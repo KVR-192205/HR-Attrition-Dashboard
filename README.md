@@ -1,2 +1,2 @@
 # HR-Attrition-Dashboard
-Power BI dashboard analyzing employee attrition trends
+# Organizational KPI Dashboard and Performance Analytics Platform
