@@ -1,4 +1,4 @@
-# HR Attrition Analysis Dashboard (Power BI)
+# Organizational KPI Dashboard & HR Attrition Analysis (Power BI) 
 
 ## Overview
 
